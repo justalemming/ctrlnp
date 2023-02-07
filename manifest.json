@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Ctrl+N/P unix navigation for dropdowns",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Use Ctrl+N and Ctrl+P to navigate up and down in dropdowns",
 
   "icons": {
